@@ -14,7 +14,7 @@
 ## Resumo das Tabelas e Registros
 
 - **EMPRESAS**: 59.616.973 registros
-- **ESTABELECIMENTOS**: 59.616.973 registros
+- **ESTABELECIMENTOS**: 62.634.863 registros
 - **SIMPLES**: 40.459.179 registros
 - **SÓCIOS**: 24.683.401 registros
 - **MUNICÍPIOS**: 5.571 registros
